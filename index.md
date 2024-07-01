@@ -17,4 +17,3 @@ Hi, I'm Jusitn, an aspiring software engineer with a passion for technology and 
 4. **Learn data structures and algorithms**: Develop problem-solving skills to optimize solutions.
 5. **Explore software development methodologies**: Understand Agile, DevOps, and other practices.
 6. **Contribute to open-source projects**: Collaborate with the community and contribute to meaningful projects.
-
